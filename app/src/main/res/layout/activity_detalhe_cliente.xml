@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="br.usjt.progmulti.clientesi18.DetalheClienteActivity">
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
